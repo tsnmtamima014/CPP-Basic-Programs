@@ -5,4 +5,4 @@ int main() {
     tm *gmtm = gmtime(&now);
     std::cout << "GMT Time: " << asctime(gmtm);
     return 0;
-}
+}5
